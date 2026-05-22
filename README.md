@@ -24,7 +24,7 @@ This project is a **compact 2-layer development board** based on the **ESP32-S3-
 ### 💰 Cost Summary
  
 - **Estimated Total Cost:** **$73.69 USD**
-- 
+
 ## Schematic & PCB
 <img width="400" height="746" alt="Screenshot 2026-05-21 120058" src="https://github.com/user-attachments/assets/2fa536c1-84ba-412a-9ac8-103513c74332" />
 <img width="595" height="518" alt="Screenshot 2026-05-21 113330" src="https://github.com/user-attachments/assets/5dbb1d8e-fa6b-4358-b2b2-82497f52b97e" />
