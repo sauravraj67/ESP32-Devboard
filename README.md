@@ -15,7 +15,7 @@ This project is a **compact 2-layer development board** based on the **ESP32-S3-
 
 - ## Bill of Materials (BOM)
 | Qty | Description |  Total (USD) |
-|----:|-------------|-------------|
+|----|-------------|-------------|
 
 | 1 | PCB and Assembly  |   	71.97 |
 | 1 |Shipping JLCPCB - Discount  | 1.72 |
